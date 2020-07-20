@@ -1,0 +1,6 @@
+C:\Users\Sunil\Desktop\CollebraOnlineTest\BusinessRulesEngine-master\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.exe.config
+C:\Users\Sunil\Desktop\CollebraOnlineTest\BusinessRulesEngine-master\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.exe
+C:\Users\Sunil\Desktop\CollebraOnlineTest\BusinessRulesEngine-master\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.pdb
+C:\Users\Sunil\Desktop\CollebraOnlineTest\BusinessRulesEngine-master\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.csproj.CoreCompileInputs.cache
+C:\Users\Sunil\Desktop\CollebraOnlineTest\BusinessRulesEngine-master\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.exe
+C:\Users\Sunil\Desktop\CollebraOnlineTest\BusinessRulesEngine-master\BusinessRulesEngine\obj\Debug\BusinessRulesEngine.pdb
